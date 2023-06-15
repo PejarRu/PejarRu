@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Welcome to My GitHub Profile!
-
+<!--
 ![Profile Banner](https://example.com/banner-image.png)
-
+-->
 ## About Me
 
 Hi there! I'm Anton, a passionate full-stack developer (junior) with expertise in web development. I love exploring new technologies and lose feel of time while coding. Here's a brief summary of my skills:
