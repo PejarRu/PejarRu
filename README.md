@@ -1,4 +1,6 @@
 <!--
+### Hi there 
+
 **PejarRu/PejarRu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,23 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Welcome to My GitHub Profile!👋
-<!--
-![Profile Banner](https://example.com/banner-image.png)
--->
+![Profile Banner](https://raw.githubusercontent.com/elihwyma/elihwyma/snake/github-contribution-grid-snake.gif)
 ## About Me
 
-Hi there! I'm Anton, a passionate full-stack developer (junior) with expertise in web development. I love exploring new technologies and lose feel of time while coding. Here's a brief summary of my skills:
+Hi there! I'm Anton, a passionate full-stack developer  with junior expertise in web development. I love exploring new technologies and lose the sense of time while coding. Here's a brief summary of my skills:
 
 Full-stack web development
- - [📡]NodeJS: |🟩🟩🟩🟩🟩🟩🟩🟩🔳🔳|80'/100
-- [📡]Laravel: |🟨🟨🟨🟨🟨🟨🔳🔳🔳🔳|60'/100
-- [📏]Vue.js: |🟨🟨🟨🟨🟨🟨🔳🔳🔳🔳|60'/100
-- [📏]Angular: |🟩🟩🟩🟩🟩🟩🟩🔳🔳🔳|70'/100
-- [🧱]MongoDB: |🟨🟨🟨🟨🟨🟨🔳🔳🔳🔳|60'/100
-- [🧱]SQL: |🟩🟩🟩🟩🟩🟩🟩🟩🔳🔳|80'/100
-- [📡]Symfony: |🟧🟧🟧🟧🔳🔳🔳🔳🔳|40'/100
-- [✏️]Sass: |🟩🟩🟩🟩🟩🟩🟩🟩🟩🔳|90'/100
-- [✏️]Bootstrap: |🟩🟩🟩🟩🟩🟩🟩🟩🟩🔳|90'/100
+
+>  - [📡]**NodeJS**: ▫ ▫|🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜|80/100
+> - [📡]**Laravel**: ▫ ▫ |🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜60/100
+> - [📏]**Vue.js**: ▫ ▫ ▫|🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜|60/100
+> - [📏]**Angular**:  ◽ |🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜|70/100
+> - [🧱]**MongoDB**:|🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜|60/100
+> - [🧱]**SQL**:◻◻◻ |🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜|80/100
+> - [📡]**Symfony**: ▫ |🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜|40/100
+> - [✏️]**Sass**:◻◻◻ |🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜|90/100
+> - [✏️]**Bootstrap**: |🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜|90/100
 
 ## Profile README
 
@@ -57,8 +58,8 @@ Feel free to explore the repositories and discover more about the projects.
 
 If you have any questions, collaboration opportunities, or just want to say hello, feel free to reach out to me. You can contact me through the following channels:
 
-- Email: [pejarru@example.com](mailto:pejarru@example.com)
-- LinkedIn: [PejarRu](https://www.linkedin.com/in/pejarru)
+- Email: [berzinsanton@gmail.com](mailto:berzinsanton@gmail.com)
+- LinkedIn: [Antons Berzins]([Antons (https://www.linkedin.com/in/antons-berzins-2890b5222/))
 
-Thank you for visiting my profile! I look forward to connecting with you.
+Thank you for visiting my profile!
 
