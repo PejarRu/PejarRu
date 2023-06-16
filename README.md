@@ -32,11 +32,11 @@ Full-stack web development
 > - [🧱]**SQL**: ▫ ▫ ▫ ▫|🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜|80/100
 > - [✏️]**Sass**: ▫ ▫ ▫ ▫|🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜|90/100
 > - [✏️]**Bootstrap**:▫ |🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜|90/100
-
+<!--
 ## Profile README
 
 You've reached the secret section of my GitHub profile. Here, you'll find more information about me and my projects. Feel free to explore and connect!
-<!--
+
 Check out my [portfolio website](https://example.com) to see my latest projects and learn more about my work.
 
 ## Pinned Projects
