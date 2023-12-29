@@ -18,19 +18,28 @@ Here are some ideas to get you started:
 ![Profile Banner](https://raw.githubusercontent.com/elihwyma/elihwyma/snake/github-contribution-grid-snake.gif)
 ## About Me
 
-Hi there! I'm Anton, a passionate full-stack developer  with junior expertise in web development. I love exploring new technologies and lose the sense of time while coding. Here's a brief summary of my skills:
+Hello there! My name is Anton, junior full-stack web developer. Here's a brief summary of my programmings skills due to 01/01/2024:
 
-Full-stack web development
-
->  - [📡]**NodeJS**: ▫ ▫|🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜|80/100
+> - [📡]**NodeJS**: ▫ ▫|🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜|80/100
 > - [📡]**Laravel**: ▫ ▫ |🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜70/100
 > - [📏]**Vue.js**: ▫ ▫ ▫|🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜|60/100
 > - [📏]**Angular**:  ▫▫|🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜|70/100
-> - [📏]**HTML/CSS**: |🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜|90/100
 > - [🧱]**MongoDB**: |🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜|80/100
-> - [🧱]**SQL**: ▫ ▫ ▫ ▫|🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜|80/100
-> - [✏️]**Sass**: ▫ ▫ ▫ ▫|🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜|90/100
+> - [🧱]**SQL**: ▫ ▫ ▫ ▫|🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜|90/100
+> - [✏️]**Sass/CSS**: ▫ ▫ ▫ ▫|🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜|80/100
 > - [✏️]**Bootstrap**:▫ |🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜|90/100
+
+## My Vision
+I am currently pursuing a master's degree in blockchain development. I am enthusiastic about contributing code to the WEB3 community.
+
+### Topics I'm Studying
+This are the topics i am learning or will learn this 2024:
+ - Solidity (Coding in RemixIDE)
+ - Docker
+ - General Cryptography
+ - Hyper Ledger
+ - NFTs
+ - Digital Identity
 <!--
 ## Profile README
 
