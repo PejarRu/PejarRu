@@ -40,6 +40,8 @@ This are the topics i am learning or will learn this 2024:
  - Hyper Ledger
  - NFTs
  - Digital Identity
+
+   
 <!--
 ## Profile README
 
