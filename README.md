@@ -22,6 +22,7 @@ Hello there! My name is Anton, junior full-stack web developer. Here's a brief s
 
 > - [📡]**NodeJS** | [📡]**Laravel** | [📏]**Vue.js** | [📏]**Angular** | [🧱]**MongoDB** | [🧱]**SQL** | [✏️]**Sass/CSS** | [✏️]**Bootstrap** |
 
+<!--
 > - [📡]**NodeJS**: ▫ ▫|🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜|80/100
 > - [📡]**Laravel**: ▫ ▫ |🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜70/100
 > - [📏]**Vue.js**: ▫ ▫ ▫|🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜|60/100
@@ -31,6 +32,7 @@ Hello there! My name is Anton, junior full-stack web developer. Here's a brief s
 > - [✏️]**Sass/CSS**: ▫ ▫ ▫ ▫|🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜|80/100
 > - [✏️]**Bootstrap**:▫ |🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜|90/100
 
+-->
 ## My Vision
 I am currently pursuing a master's degree in blockchain development. I am enthusiastic about contributing code to the WEB3 community.
 
