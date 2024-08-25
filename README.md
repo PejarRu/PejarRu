@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 Hello there! My name is Anton, junior full-stack web developer. Here's a brief summary of my programmings skills due to 01/01/2024:
 
+> - [📡]**NodeJS** | [📡]**Laravel** | [📏]**Vue.js** | [📏]**Angular** | [🧱]**MongoDB** | [🧱]**SQL** | [✏️]**Sass/CSS** | [✏️]**Bootstrap** |
+
 > - [📡]**NodeJS**: ▫ ▫|🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜|80/100
 > - [📡]**Laravel**: ▫ ▫ |🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜70/100
 > - [📏]**Vue.js**: ▫ ▫ ▫|🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜|60/100
